@@ -1,2 +1,3 @@
 # armenia-sim-guides
-Armenia SIM/phone card guides
+
+全球通信 README（占位）
